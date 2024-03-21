@@ -1,0 +1,16 @@
+constant r0($0);
+constant r1($1);
+constant r2($2);
+constant r3($3);
+constant r4($4);
+constant r5($5);
+constant r6($6);
+constant r7($7);
+constant r8($8);
+constant r9($9);
+constant r10($a); constant sp($a);
+constant r11($b); constant ra($b);
+constant r12($c); constant lc($c);
+constant r13($d); constant la($d);
+constant r14($e); constant ba($e);
+constant r15($f); constant pc($f);

@@ -1,0 +1,7 @@
+{
+ "font-name": "main",
+ "segments": {
+  "ascii": "./main-ascii.bin",
+  "x00": "./main-latin-ext.bin"
+ }
+}
