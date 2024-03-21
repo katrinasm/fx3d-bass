@@ -1,5 +1,7 @@
 # fx3d-bass
 
+![alt text](https://github.com/katrinasm/fx3d-bass/blob/main/testrom-screenshot.png?raw=true)
+
 This is a renderer for the SuperFX.
 It supports the following features:
 - 256-color output at up 20 fps
