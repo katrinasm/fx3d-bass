@@ -53,7 +53,7 @@ so I won't be distributing copies of bass. If I do end up putting more
 serious work into this, I will switch to another assembler.
 
 If you do have a copy of bass, run `build.py` and it will set up some resources
-and then create a ROM name `fx3d.sfc`.
+and then create a ROM named `fx3d.sfc`.
 
 This repository is also missing some intermediate tools, like a model converter,
 that are required to make real use of a renderer like this. I do possess such
